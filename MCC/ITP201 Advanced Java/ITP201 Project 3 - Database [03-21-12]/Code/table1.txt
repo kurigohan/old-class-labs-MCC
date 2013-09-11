@@ -1,0 +1,6 @@
+'Steve Jones', 20, 'Rochester','NY' 
+'George Bush', 60, 'Washington','DC'
+'Hilary Clinton', 59, 'Rochester','NY'
+'Jenny Smith', 55, 'Pittsford','NY'
+'Albert Einstein',10,'Princeton','NJ'
+

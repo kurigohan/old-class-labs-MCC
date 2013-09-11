@@ -1,0 +1,126 @@
+Input line: 1-
+Create a sequence
+-----------------
+No data was created
+-----------------
+
+Input line: 1 - 100,400,200,700,500
+Create a sequence
+-----------------
+The sequence: 100.0 400.0 200.0 700.0 500.0
+Number of elements: 5
+The current element: 500.0
+-----------------
+
+Input line: 2 - 400
+Delete an element
+-----------------
+The sequence: 100.0 200.0 700.0 500.0
+Number of elements: 4
+The current element: 200.0
+-----------------
+
+Input line: 4 - 3,700
+Add an element before another element
+-----------------
+3 added before the current element.
+The sequence: 100.0 200.0 3.0 700.0 500.0
+Number of elements: 5
+The current element: 3.0
+-----------------
+
+Input line: 5 - 5,200
+Add an element after an element
+-----------------
+5 added before the current element.
+The sequence: 100.0 200.0 5.0 3.0 700.0 500.0
+Number of elements: 6
+The current element: 5.0
+-----------------
+
+Input line: 3
+Delete the first element from the sequence
+-----------------
+Front element deleted.
+The sequence: 200.0 5.0 3.0 700.0 500.0
+Number of elements: 5
+The current element: 200.0
+-----------------
+
+Input line: 6 - 25
+Add an element to the end of the sequence
+-----------------
+25 added to the end.
+The sequence: 200.0 5.0 3.0 700.0 500.0 25.0
+Number of elements: 6
+The current element: 25.0
+-----------------
+
+Input line: 7 - 3
+Display an element at a certain index
+-----------------
+The element at index 3 is 700.0
+The sequence: 200.0 5.0 3.0 700.0 500.0 25.0
+Number of elements: 6
+The current element: 700.0
+-----------------
+
+Input line: 8
+Display the last element in the sequence
+-----------------
+The last element is 25.0
+The sequence: 200.0 5.0 3.0 700.0 500.0 25.0
+Number of elements: 6
+The current element: 25.0
+-----------------
+
+Input line: 1 - 10,20,30
+Create a sequence
+-----------------
+The sequence: 10.0 20.0 30.0
+Number of elements: 3
+The current element: 30.0
+-----------------
+
+Input line: 10
+Append another sequence to the first sequence
+-----------------
+Second sequence appended to first sequence.
+The sequence: 200.0 5.0 3.0 700.0 500.0 25.0 10.0 20.0 30.0
+Number of elements: 9
+The current element: 25.0
+-----------------
+
+Input line: 11
+Create a clone sequence
+-----------------
+Clone created.
+The sequence: 200.0 5.0 3.0 700.0 500.0 25.0 10.0 20.0 30.0
+Number of elements: 9
+The current element: 30.0
+-----------------
+
+Input line: 9 - 700, 7
+Replace an element with another element
+-----------------
+700 replaced with element 7
+The sequence: 200.0 5.0 3.0 7.0 500.0 25.0 10.0 20.0 30.0
+Number of elements: 9
+The current element: 7.0
+-----------------
+
+Input line: 12 - 1
+Print the sequence
+-----------------
+The sequence: 200.0 5.0 3.0 7.0 500.0 25.0 10.0 20.0 30.0
+Number of elements: 9
+The current element: 7.0
+-----------------
+
+Input line: 12 - 2
+Print the sequence
+-----------------
+The sequence: 10.0 20.0 30.0
+Number of elements: 3
+The current element: 30.0
+-----------------
